@@ -22,3 +22,8 @@ repo https://github.com/zestymec/rock-paper-scissors-javascript-game
 tic tac toe game 
 link https://tic-tac-toe-javascript-game.vercel.app/
 repo https://github.com/zestymec/tic-tac-toe-javascript-game
+
+6th 
+currency converete
+repo https://github.com/zestymec/currency-converter-React.git
+link https://currency-converter-react-blond.vercel.app/
