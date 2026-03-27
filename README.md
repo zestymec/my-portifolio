@@ -27,3 +27,16 @@ repo https://github.com/zestymec/tic-tac-toe-javascript-game
 currency converete
 repo https://github.com/zestymec/currency-converter-React.git
 link https://currency-converter-react-blond.vercel.app/
+
+7th 
+weather app
+repo https://github.com/zestymec/weatherapp
+link https://zestymec.github.io/weatherapp/
+
+8th 
+to do app
+repo https://github.com/zestymec/to-do-list-app
+link https://zestymec.github.io/to-do-list-app/
+
+9th 
+Amazon web
